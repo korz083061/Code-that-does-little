@@ -9,3 +9,5 @@
 # Erm, little.
 
 print("I am code and I do little.")
+print("...")
+print("Yep, that's about it")
