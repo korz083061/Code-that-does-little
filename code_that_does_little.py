@@ -8,6 +8,8 @@
 # ...
 # Erm, little.
 
-print("I am code and I do little.")
+user_name = input("Hello user, what is your name? : ")
+
+print(f"\nHello, {user_name}.\nI am code and I do little.")
 print("...")
 print("Yep, that's about it")
